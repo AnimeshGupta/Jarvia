@@ -1,2 +1,2 @@
 # Jarvia
-LNMHacks winning project
+LNMHacks (Hackathon) winning project built in Python using OpenCV libary.
